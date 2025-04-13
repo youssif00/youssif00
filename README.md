@@ -1,6 +1,6 @@
 
 I'm Youssif Reda
-I have been graduated recently. I'm a junior Data analyst trying to find my first job. 
+ Machien Learning Enfinner 
 
 <!---
 youssif00/youssif00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
